@@ -1,0 +1,39 @@
+id: 5
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 24
+moveSpeed: 0.5
+health: 100000
+followRange: 32
+knockbackResistence: 0.5
+reward: 25000
+attackDamage: 25
+drops:
+- 322:1:2;3;
+- book:0:1;0.1;PROTECTION_ENVIRONMENTAL:4;
+- book:0:1;0.1;DAMAGE_ALL:4;
+- 399:0:1;1;
+- 155:0:5;30;
+- 112:0:5;30;
+- 87:0:5;30;
+- 88:0:5;30;
+- 89:0:5;30;
+- book_treasure:10;0.01;
+- book_treasure:4;0.1;
+- book_treasure:6;0.01;
+- book_treasure:2;2;
+- book_treasure:9;0.01;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world_nether;-243;28;272;
+dialogs:
+  spawn:
+  - Eu estou vendo todos vocês! Podem vir, não tenham medo.
+  - Não se preocupe com a hora, nossa batalha vai ser bem rápida!
+  death:
+  - Isso não está acontecendo! Eu não posso morrer!!!
+  - Nossa batalha não acaba aqui! Se prepare porque você não me escapa na próxima!
+  kill:
+  - O poder de vocês não está nem aos pés dos meus! hahaha
+  - Foi mais rápido do que eu esperava, que sem graça.

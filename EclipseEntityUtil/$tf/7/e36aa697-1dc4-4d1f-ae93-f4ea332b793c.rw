@@ -1,0 +1,4 @@
+name: MySQL
+version: 0.1
+
+main: br.com.smooph.mysql.Main

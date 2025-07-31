@@ -1,0 +1,10 @@
+name: MonsterAttack
+main: ibieel.minigames.com.Main
+author: iBieel
+version: 1.0
+depend: [CraftLandiaCoreD]
+commands:
+  start:
+  addbaselocation:
+  addbonusloc:
+  addvillagerloc:

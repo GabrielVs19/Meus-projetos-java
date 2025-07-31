@@ -1,0 +1,150 @@
+id: 7
+1:
+  attackDamage: 4
+  health: 60
+  moveSpeed: 0.15
+  followRange: 32
+  knockbackResistence: 0.0
+  reward: 0.1
+  attackType: 1
+  maxDrops: 1
+  drops:
+    - 368:0:1;100;
+    - 121:0:1;1;
+    - 49:0:2;1;
+    - 383:58:1;0.0001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 550
+      min: 0
+    world_the_end:
+      max: 100
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 1000
+      min: 0
+2:
+  attackDamage: 5
+  health: 61
+  moveSpeed: 0.19
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.2
+  attackType: 1
+  maxDrops: 1
+  drops:
+    - 368:0:1;100;
+    - 121:0:2;3;
+    - book:0:1;0.1;DAMAGE_ARTHROPODS:2;
+    - 49:0:2;2;
+    - 383:58:1;0.0001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 690
+      min: 580
+    world_the_end:
+      max: 250
+      min: 100
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 2000
+      min: 1000
+3:
+  attackDamage: 6
+  health: 62
+  moveSpeed: 0.22
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.3
+  attackType: 1
+  maxDrops: 2
+  drops:
+    - 368:0:1;100;
+    - 121:0:3;4;
+    - book:0:1;0.01;DAMAGE_ARTHROPODS:3;
+    - 49:0:2;3;
+    - 383:58:1;0.0001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 750
+      min: 690
+    world_the_end:
+      max: 330
+      min: 250
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 3200
+      min: 2000
+4:
+  attackDamage: 7
+  health: 63
+  moveSpeed: 0.25
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.4
+  attackType: 1
+  maxDrops: 3
+  drops:
+    - 368:0:1;100;
+    - 121:0:4;7;
+    - book:0:1;0.001;DAMAGE_ARTHROPODS:4;
+    - 49:0:2;4;
+    - 383:58:1;0.0001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 900
+      min: 750
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 410
+      min: 330
+    world:
+      max: 4300
+      min: 3200
+5:
+  attackDamage: 10
+  health: 65
+  moveSpeed: 0.27
+  followRange: 32
+  knockbackResistence: 0
+  reward: 1
+  attackType: 1
+  maxDrops: 4
+  drops:
+    - 368:0:1;100;
+    - 121:0:5;10;
+    - book:0:1;0.0001;DAMAGE_ARTHROPODS:5;
+    - 49:0:2;5;
+    - 383:58:1;0.0001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 1000
+      min: 900
+    world_the_end:
+      max: 500
+      min: 410
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 5000
+      min: 4300

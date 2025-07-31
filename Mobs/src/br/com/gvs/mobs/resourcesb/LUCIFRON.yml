@@ -1,0 +1,39 @@
+id: 4
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 8
+moveSpeed: 0.5
+health: 70000
+followRange: 32
+knockbackResistence: 0.5
+reward: 15000
+attackDamage: 30
+drops:
+- 399:0:1;1;
+- book:0:1;1;ARROW_KNOCKBACK:1;
+- book:0:1;0.1;PROTECTION_ENVIRONMENTAL:4;
+- 155:0:5;30;
+- 112:0:5;30;
+- 87:0:5;30;
+- 88:0:5;30;
+- 89:0:5;30;
+- 372:0:5;30;
+- book_treasure:4;0.1;
+- book_treasure:3;1;
+- book_treasure:5;0.01;
+- book_treasure:2;1;
+- book_treasure:6;0.01;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world;-2610;66;4046;
+dialogs:
+  spawn:
+  - Finalmente estou livre! Prepare-se para enfrentar a morte!
+  - Eu sou o mais poderoso! Finalmente retornei!
+  death:
+  - Isso é impossível! Eu retornarei!!!
+  - Eu voltarei!!! Me vingarei de cada um de vocês!
+  kill:
+  - Vocês não são nada comparados a mim! Eu sou o mais poderoso!
+  - Dor e sofrimento eu lhes causei! Vocês nunca irão me vencer!

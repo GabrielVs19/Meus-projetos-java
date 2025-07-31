@@ -1,0 +1,23 @@
+mobAI: true
+bossAI: true
+mobSpawnerAI: false
+checkBossDelay: 300
+percentMobs: 70
+spawnDelay: 10
+low-priority-max-mobs: 1
+low-priority-mobs:
+ - BLAZE
+ - CAVE_SPIDER
+ - SPIDER
+ - CREEPER
+ - ENDERMAN
+ - MAGMA_CUBE
+ - PIG_ZOMBIE
+ - ZOMBIE
+ - SKELETON
+ - SLIME
+ - WITCH
+ - SILVERFISH
+low-priority-worlds:
+ - blocos
+ - miner

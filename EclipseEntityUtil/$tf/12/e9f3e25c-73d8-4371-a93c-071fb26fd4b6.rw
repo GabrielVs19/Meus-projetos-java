@@ -1,0 +1,7 @@
+name: Groups
+version: 0.1
+
+main: br.com.smooph.groups.Groups
+
+commands:
+  grupo:

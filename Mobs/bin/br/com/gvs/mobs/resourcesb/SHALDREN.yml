@@ -1,0 +1,41 @@
+id: 10
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 24
+moveSpeed: 0.30
+health: 60000
+followRange: 32
+knockbackResistence: 0.5
+reward: 15000
+attackDamage: 20
+drops:
+- 378:0:4;50;
+- 276:0:1;1;DAMAGE_ALL:4;
+- book:0:1;1;ARROW_DAMAGE:3;
+- 383:62:1;0.01;
+- 88:0:1;10;
+- book:0:1;0.001;FIRE_ASPECT:2;
+- book:0:1;0.001;LOOT_BONUS_BLOCKS:2;
+- book:0:1;1;PROTECTION_ENVIRONMENTAL:4;
+- 399:0:1;5;
+- 310:0:1;0.01;PROTECTION_ENVIRONMENTAL:3;
+- 310:0:1;0.1;PROTECTION_ENVIRONMENTAL:2;
+- book_treasure:4;0.1;
+- book_treasure:3;1;
+- book_treasure:10;0.0001;
+- book_treasure:2;2;
+- book_treasure:7;0.01;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world_nether;242;32;-323;
+dialogs:
+  spawn:
+  - Então você quer brincar com fogo?"
+  - O que acha? quer um pouco de fogo?
+  death:
+  - Da próxima vez você não poderá com a minha fúria!
+  - Na próxima o fogo vencerá!
+  kill:
+  - Parece que você não superou o poder do fogo...
+  - HA-HA-HA O fogo lhe superou mais uma vez!

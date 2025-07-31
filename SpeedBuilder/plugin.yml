@@ -1,0 +1,15 @@
+name: SpeedBuildersMG
+version: 0.1
+
+author: TheSmooph
+
+depend: [CraftLandiaCoreD, WorldEdit]
+
+main: br.com.minigame.speedbuilders.SpeedBuilders
+
+commands:
+  setradius:
+  setdeep:
+  addspawn:
+  start:
+  dupla:

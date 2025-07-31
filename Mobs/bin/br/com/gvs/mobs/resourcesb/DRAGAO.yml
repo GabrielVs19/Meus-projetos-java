@@ -1,0 +1,36 @@
+id: 6
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 24
+moveSpeed: 0.5
+health: 15000
+followRange: 32
+knockbackResistence: 0.5
+reward: 5000
+attackDamage: 25
+drops:
+- 276:0:1;0.1;DAMAGE_ALL:4;
+- book:0:1;0.1;PROTECTION_ENVIRONMENTAL:4;
+- book:0:1;0.1;DAMAGE_ALL:4;
+- 383:58:1;0.01;
+- 384:0:15;20;
+- 312:0:1;0.001;PROTECTION_ENVIRONMENTAL:4;
+- book_treasure:15;0.0001;
+- book_treasure:4;0.1;
+- book_treasure:6;0.01;
+- book_treasure:2;2;
+- book_treasure:5;0.1;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world_the_end;59;60;93;
+dialogs:
+  spawn:
+  - Estou de volta para dominar a todos!!!
+  - Finalmente poderei lhes destruir!!!
+  death:
+  - Ahh, não pode ser! Vocês são fracos! Não podem me derrotar!!
+  - Isso não é o fim!!! Eu voltarei!
+  kill:
+  - Eu derrotarei todos vocês!!! hahahahaha
+  - Vocês são fracos, nem arranhões me fizeram!

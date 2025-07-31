@@ -1,0 +1,6 @@
+name: NPCs
+version: 0.1
+main: br.com.smooph.npcs.NPCs
+
+commands:
+  npc:
