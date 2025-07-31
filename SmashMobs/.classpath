@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/CraftLandia/sv/craftbukkit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.7/BarAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.7/LibsDisguises.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.7/PermissionsEx (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/CraftLandia/SmashMobs/EffectLib-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Downloads/CraftLandiaCoreD.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

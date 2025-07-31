@@ -1,0 +1,9 @@
+name: SmashMobs
+main: ibieel.minigames.com.SmashMobs
+author: iBieel
+version: 1.7
+depend: [CraftLandiaCoreD, LibsDisguises, EffectLib]
+commands:
+  start:
+  addspawn:
+  a:
