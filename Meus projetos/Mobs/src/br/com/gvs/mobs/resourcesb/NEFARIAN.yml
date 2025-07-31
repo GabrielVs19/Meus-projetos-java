@@ -1,0 +1,35 @@
+id: 1
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 8
+moveSpeed: 0.5
+health: 12000
+followRange: 32
+knockbackResistence: 0.5
+reward: 3000
+attackDamage: 30
+drops:
+- 121:0:15;10;
+- 383:58:1;0.1;
+- 384:0:15;20;
+- 368:0:3;15;
+- 49:0:5;30;
+- book_treasure:6;0.01;
+- book_treasure:3;1;
+- book_treasure:9;0.001;
+- book_treasure:2;2;
+- book_treasure:7;0.01;
+maxDrops: 2
+equipments:
+- 0:0:0;0;
+spawns:
+- world;4606;93;-953;
+dialogs:
+  spawn:
+  - Hahaha, aí estão vocês acreditando que podem me matar novamente, coitados.
+  - Finalmente eu retornei. Dessa vez será diferente!
+  death:
+  - Dessa vez vocês conseguiram me vencer, mas na próxima não terão tanta sorte!
+  - Vocês não podem me matar! Nãao!!!
+  kill:
+  - Eu avisei que você não ia conseguir.
+  - Eu sou imortal!!! Voltem para que eu os derrote novamente!

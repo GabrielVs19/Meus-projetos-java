@@ -1,0 +1,27 @@
+warp: evento_chuvaDeBlocos
+
+mundo: world
+
+warpSaida: spawn
+
+region: chuva_de_blocos
+
+numero_de_anuncios: 1
+
+comandosOff:
+  - "x1"
+  - "eventoauto"
+  - "frog"
+  - "frog"
+  - "gladiador"
+  - "sysglad"
+  
+servers:
+  normais:
+    status: true
+    coins: 3500
+    skriptEvento: evento
+  hc:
+    status: false
+    diamond: 35
+    skriptEvento: evento-hc

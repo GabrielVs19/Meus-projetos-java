@@ -1,0 +1,9 @@
+name: CookingMama
+main: ibieel.minigames.com.Main
+author: iBieel
+version: 1.0
+depend: [CraftLandiaCoreD, VirtualFurnaces]
+commands:
+  start:
+  addspawn:
+  comidas:

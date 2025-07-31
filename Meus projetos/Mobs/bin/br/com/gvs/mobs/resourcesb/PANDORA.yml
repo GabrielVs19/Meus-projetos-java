@@ -1,0 +1,36 @@
+id: 12
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 24
+moveSpeed: 0.34
+health: 50000
+followRange: 32
+knockbackResistence: 0.5
+reward: 13000
+attackDamage: 35
+drops:
+- book:0:1;0.01;PROTECTION_ENVIRONMENTAL:3;
+- book:0:1;0.001;FIRE_ASPECT:2;
+- 383:66:1;0.001;
+- 372:0:2;4;
+- 311:0:1;0.001;PROTECTION_ENVIRONMENTAL:4;
+- 310:0:1;0.01;PROTECTION_ENVIRONMENTAL:3;
+- book_treasure:5;0.1;
+- book_treasure:3;1;
+- book_treasure:8;0.01;
+- book_treasure:2;2;
+- book_treasure:7;0.01;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world;-3821;74;-2448;
+dialogs:
+  spawn:
+  - Prepare-se pra ser enfeitiçado!
+  - Vamos pra uma batalha de magia?
+  death:
+  - Não acredito que você superou meu feitiço!
+  - Não é possível!! COMO?? COMO você me superou dessa vez?
+  kill:
+  - HA-HA Sabia que você não era páreo para mim!
+  - Parece que a magia te venceu apesar de tudo, HA-HA.

@@ -1,0 +1,6 @@
+name: MenuVipB
+main: br.com.gvs.menuVipB.MenuVipB
+author: iBieel
+version: 0.1
+commands:
+  vip:

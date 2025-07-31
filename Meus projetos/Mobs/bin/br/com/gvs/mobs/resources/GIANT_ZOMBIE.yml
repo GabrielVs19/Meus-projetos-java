@@ -1,0 +1,141 @@
+id: 9
+1:
+  attackDamage: 26
+  health: 110
+  moveSpeed: 0.5
+  followRange: 32
+  knockbackResistence: 0.35
+  reward: 0.2
+  attackType: 2
+  maxDrops: 2
+  drops:
+    - 367:0:10;100;
+    - book_treasure:1;0.001;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 0
+      min: 0
+    world_the_end:
+      max: 150
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 0
+      min: 0
+2:
+  attackDamage: 40
+  health: 120
+  moveSpeed: 0.54
+  followRange: 32
+  knockbackResistence: 0.4
+  reward: 0.3
+  attackType: 2
+  maxDrops: 2
+  drops:
+    - 367:0:10;100;
+    - book_treasure:2;0.01;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 0
+      min: 0
+    world_the_end:
+      max: 250
+      min: 150
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 0
+      min: 0
+3:
+  attackDamage: 50
+  health: 125
+  moveSpeed: 0.57
+  followRange: 32
+  knockbackResistence: 0.55
+  reward: 5
+  attackType: 2
+  maxDrops: 3
+  drops:
+    - 367:0:10;100;
+    - book_treasure:3;0.1;
+    - book:0:1;0.1;THORNS:1;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 0
+      min: 0
+    world_the_end:
+      max: 350
+      min: 250
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 0
+      min: 0
+4:
+  attackDamage: 60
+  health: 130
+  moveSpeed: 0.64
+  followRange: 32
+  knockbackResistence: 0.6
+  reward: 7
+  attackType: 2
+  maxDrops: 3
+  drops:
+    - 367:0:10;100;
+    - book_treasure:4;1;
+    - book:0:1;0.001;PROTECTION_ENVIRONMENTAL:3;
+    - book:0:1;0.01;THORNS:2;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 0
+      min: 0
+    world_the_end:
+      max: 420
+      min: 350
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 0
+      min: 0
+5:
+  attackDamage: 70
+  health: 145
+  moveSpeed: 0.68
+  followRange: 32
+  knockbackResistence: 0.65
+  reward: 10
+  attackType: 2
+  maxDrops: 4
+  drops:
+    - 367:0:10;100;
+    - book_treasure:5;3;
+    - book:0:1;0.0001;PROTECTION_ENVIRONMENTAL:4;
+    - book:0:1;0.001;THORNS:3;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 0
+      min: 0
+    world_the_end:
+      max: 500
+      min: 420
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 0
+      min: 0

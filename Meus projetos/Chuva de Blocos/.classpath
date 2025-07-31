@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/CraftLandia/EventoD.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.5/bukkit-1.5.2-R1.1-20130701.165003-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.5/worldguard-5.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel/Desktop/Dev/1.5/WorldEdit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

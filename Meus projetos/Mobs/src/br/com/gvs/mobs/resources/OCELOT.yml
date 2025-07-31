@@ -1,0 +1,141 @@
+id: 26
+1:
+  attackDamage: 0
+  health: 25
+  moveSpeed: 0.20
+  followRange: 32
+  knockbackResistence: 0.0
+  reward: 0.1
+  attackType: 0
+  maxDrops: 1
+  drops:
+    - 383:0:1;0.001;
+    - 349:0:1;30;
+    - 351:11:1;15;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 220
+      min: 0
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 650
+      min: 0
+2:
+  attackDamage: 0
+  health: 30
+  moveSpeed: 0.20
+  followRange: 32
+  knockbackResistence: 0.0
+  reward: 0.2
+  attackType: 0
+  maxDrops: 2
+  drops:
+    - 383:0:1;0.001;
+    - 349:0:1;40;
+    - 351:11:1;25;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 500
+      min: 250
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 1400
+      min: 650
+3:
+  attackDamage: 0
+  health: 35
+  moveSpeed: 0.20
+  followRange: 32
+  knockbackResistence: 0.0
+  reward: 0.3
+  attackType: 0
+  maxDrops: 2
+  drops:
+    - 383:0:1;0.001;
+    - 349:0:2;60;
+    - 351:11:2;35;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 650
+      min: 500
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 2200
+      min: 1400
+4:
+  attackDamage: 5
+  health: 40
+  moveSpeed: 0.21
+  followRange: 32
+  knockbackResistence: 0.0
+  reward: 0.4
+  attackType: 1
+  maxDrops: 3
+  drops:
+    - 383:0:1;0.001;
+    - 349:0:2;80;
+    - 351:11:2;40;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 810
+      min: 650
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 3500
+      min: 2200
+5:
+  attackDamage: 6
+  health: 50
+  moveSpeed: 0.22
+  followRange: 32
+  knockbackResistence: 0.01
+  reward: 0.5
+  attackType: 1
+  maxDrops: 3
+  drops:
+    - 383:0:1;0.001;
+    - 349:0:3;90;
+    - 351:11:3;50;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 1000
+      min: 810
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 5000
+      min: 3500

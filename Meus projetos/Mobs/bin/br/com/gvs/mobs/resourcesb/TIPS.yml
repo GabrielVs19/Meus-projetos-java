@@ -1,0 +1,42 @@
+id: 8
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 12
+moveSpeed: 0.30
+health: 50000
+followRange: 32
+knockbackResistence: 0.6
+reward: 13000
+attackDamage: 20
+drops:
+- 263:0:32;90;
+- 264:0:10;5;
+- 265:0:16;50;
+- 266:0:32;90;
+- 288:0:16;5;
+- 396:0:5;30;
+- 322:0:5;30
+- 329:0:2;50;
+- 319:0:2;100;
+- 310:0:1;0.001;PROTECTION_ENVIRONMENTAL:4;
+- 310:0:1;0.1;PROTECTION_ENVIRONMENTAL:2;
+- book:0:1;1;PROTECTION_ENVIRONMENTAL:1;
+- book_treasure:3;1;
+- book_treasure:4;0.1;
+- book_treasure:5;0.1;
+- book_treasure:2;1;
+- book_treasure:7;0.01;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world;126;68;605;
+dialogs:
+  spawn:
+  - Posso parecer inofensivo, mas sou bem mais forte do que você pensa!
+  - Não pensem que será fácil me derrotar!
+  death:
+  - Não, por favor, não quero virar bacon!
+  - Isso não está acontecendo!
+  kill:
+  - Não consigo acreditar que você morreu para um porco, HAHAHA.
+  - Eu lhes avisei!!!

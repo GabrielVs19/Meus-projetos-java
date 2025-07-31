@@ -1,0 +1,7 @@
+name: Gates
+version: 0.1
+
+main: br.com.smooph.gates.Gates
+
+commands:
+  portal:

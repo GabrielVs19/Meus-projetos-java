@@ -1,0 +1,151 @@
+id: 11
+1:
+  attackDamage: 0
+  health: 20
+  moveSpeed: 0.2
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.1
+  attackType: 0
+  maxDrops: 2
+  drops:
+    - 332:0:3;100;
+    - 86:0:1;100;
+    - 78:0:5;30;
+    - book:0:1;0.1;DAMAGE_UNDEAD:1;
+    - 79:0:2;10;
+  equipments:
+    - 332:0:1;0;
+  spawn:
+    mundovip:
+      max: 580
+      min: 0
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 1900
+      min: 0
+2:
+  attackDamage: 1
+  health: 25
+  moveSpeed: 0.2
+  followRange: 32
+  knockbackResistence: 0.1
+  reward: 0.2
+  attackType: 0
+  maxDrops: 3
+  drops:
+    - 332:0:3;100;
+    - 86:0:1;100;
+    - 78:0:5;35;
+    - book:0:1;0.01;DAMAGE_UNDEAD:2;
+    - 79:0:2;15;
+  equipments:
+    - 332:0:1;0;
+  spawn:
+    mundovip:
+      max: 630
+      min: 580
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 2500
+      min: 1900
+3:
+  attackDamage: 3
+  health: 30
+  moveSpeed: 0.22
+  followRange: 32
+  knockbackResistence: 0.18
+  reward: 0.3
+  attackType: 0
+  maxDrops: 3
+  drops:
+    - 332:0:3;100;
+    - 86:0:1;100;
+    - 78:0:5;40;
+    - book:0:1;0.001;DAMAGE_UNDEAD:3;
+    - 79:0:2;20;
+  equipments:
+    - 332:0:1;0;
+  spawn:
+    mundovip:
+      max: 770
+      min: 630
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 2900
+      min: 2500
+4:
+  attackDamage: 5
+  health: 35
+  moveSpeed: 0.23
+  followRange: 32
+  knockbackResistence: 0.2
+  reward: 0.4
+  attackType: 1
+  maxDrops: 4
+  drops:
+    - 332:0:3;100;
+    - 86:0:1;100;
+    - 78:0:5;45;
+    - book:0:1;0.01;SILK_TOUCH:1;
+    - 79:0:2;25;
+  equipments:
+    - 332:0:1;0;
+  spawn:
+    mundovip:
+      max: 900
+      min: 770
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 3300
+      min: 2900
+5:
+  attackDamage: 5
+  health: 45
+  moveSpeed: 0.24
+  followRange: 32
+  knockbackResistence: 0.23
+  reward: 0.5
+  attackType: 2
+  maxDrops: 5
+  drops:
+    - 332:0:3;100;
+    - 86:0:1;100;
+    - 78:0:5;50;
+    - book:0:1;0.01;SILK_TOUCH:1;
+    - 79:0:2;35;
+  equipments:
+    - 332:0:1;0;
+  spawn:
+    mundovip:
+      max: 1000
+      min: 900
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 5000
+      min: 3300

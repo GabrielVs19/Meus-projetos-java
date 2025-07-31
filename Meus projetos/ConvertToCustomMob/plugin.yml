@@ -1,0 +1,5 @@
+name: ConvertToCustomMob
+main: br.com.gvs.converttocustommob.ConvertToCustomMob
+depend: [Mobs]
+author: iBieel
+version: 0.1

@@ -1,0 +1,10 @@
+name: GunGame
+main: br.com.gvs.GunGame.Main
+author: iBieel
+version: 0.1
+depend: [CraftLandiaCoreD]
+commands:
+  addspawn:
+  start:
+  waterDamage:
+  menu:

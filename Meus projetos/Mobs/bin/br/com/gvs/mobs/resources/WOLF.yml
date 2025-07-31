@@ -1,0 +1,138 @@
+id: 21
+1:
+  attackDamage: 2
+  health: 40
+  moveSpeed: 0.16
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.1
+  attackType: 1
+  maxDrops: 1
+  drops:
+    - 352:0:2;100;
+    - 383:95:1;0.01;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 220
+      min: 0
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 650
+      min: 0
+2:
+  attackDamage: 3
+  health: 45
+  moveSpeed: 0.18
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.2
+  attackType: 1 
+  maxDrops: 2
+  drops:
+    - 352:0:2;100;
+    - 383:95:1;0.01;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 500
+      min: 220
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 1400
+      min: 650
+3:
+  attackDamage: 3
+  health: 50
+  moveSpeed: 0.20
+  followRange: 32
+  knockbackResistence: 0.3
+  reward: 1
+  attackType: 1
+  maxDrops: 2
+  drops:
+    - 352:0:2;100;
+    - 383:95:1;0.01;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 650
+      min: 500
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 2200
+      min: 1400
+4:
+  attackDamage: 5
+  health: 55
+  moveSpeed: 0.23
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.4
+  attackType: 1
+  maxDrops: 2
+  drops:
+    - 352:0:2;100;
+    - 383:95:1;0.01;
+    - book:0:1;0.01;THORNS:1;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 810
+      min: 650
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 3500
+      min: 2200	  
+5:
+  attackDamage: 6
+  health: 65
+  moveSpeed: 0.25
+  followRange: 32
+  knockbackResistence: 0
+  reward: 0.5
+  attackType: 2
+  maxDrops: 2
+  drops:
+    - 352:0:2;100;
+    - 383:95:1;0.01;
+    - book:0:1;0.001;THORNS:2;
+  equipments:
+    - 0:0:0;0;
+  spawn:
+    mundovip:
+      max: 1000
+      min: 810
+    world_the_end:
+      max: 0
+      min: 0
+    world_nether:
+      max: 0
+      min: 0
+    world:
+      max: 5000
+      min: 3500

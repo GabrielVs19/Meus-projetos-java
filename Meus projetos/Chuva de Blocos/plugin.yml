@@ -1,0 +1,7 @@
+name: ChuvaDeBlocos
+main: ibieel.eventos.com.Main
+version: 1.0
+author: iBieel
+depend: [EventoD, WorldGuard]
+commands:
+  chuvadeblocos:

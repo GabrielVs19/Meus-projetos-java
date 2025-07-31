@@ -1,0 +1,38 @@
+id: 9
+respawnTime: 01/12/2016 15:55:25:654
+respawnDelay: 24
+moveSpeed: 0.30
+health: 60000
+followRange: 32
+knockbackResistence: 0.5
+reward: 15000
+attackDamage: 20
+drops:
+- 329:0:1;50;
+- 383:100:1;0.01;
+- 388:0:2;30;
+- 367:0:2;100;
+- book:0:1;1;PROTECTION_ENVIRONMENTAL:3;
+- 310:0:1;1;PROTECTION_ENVIRONMENTAL:3;
+- 334:0:2;75;
+- 420:0:1;60;
+- book_treasure:8;0.01;
+- book_treasure:3;1;
+- book_treasure:6;0.01;
+- book_treasure:2;2;
+- book_treasure:4;0.1;
+maxDrops: 3
+equipments:
+- 0:0:0;0;
+spawns:
+- world;-3989;68;-1665;
+dialogs:
+  spawn:
+  - Acho bom tirar o seu cavalinho da chuva, porque o alazão voltou.
+  - Macacos me mordam! Eu VOLTEI!
+  death:
+  - Não!! Eu só queria cavalgar mais um pouco!
+  - Ohh Meu Deus, por favor NÃO!
+  kill:
+  - Olha só, parece que alguém caiu do cavalo!
+  - Saia da minha montaria!
